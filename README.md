@@ -32,6 +32,7 @@ The system follows a full model-to-production pipeline:
 
 download the repository and create a virtual  enviroment:
 python -m venv venv
+
 venv\Scripts\activate
 
 install the required libraries and dependencies:
